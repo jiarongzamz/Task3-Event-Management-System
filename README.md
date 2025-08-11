@@ -4,7 +4,7 @@
 A database application designed to create and manage events, track attendees, and handle event registrations through three interconnected tables: Events, Attendees, and Registrations.
 
 ## Project Structure
-- `event_management_system.sql`
+- `event_management_system.sql`：Main SQL code file
 - Screenshots:
   - Task3_1_Database_Creation.png
   - Task3_2_Data_Creation.png
